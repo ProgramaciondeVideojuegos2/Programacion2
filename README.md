@@ -40,5 +40,5 @@
 * Miguel de Jesus Luna Garay
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2025
 Miguel de Jesus Luna Garay
